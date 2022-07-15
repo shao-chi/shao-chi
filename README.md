@@ -4,7 +4,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shao-chi&show_icons=true&locale=en" alt="shao-chi" /></p>
 
 <h4 align="left">Languages and Tools:</h4>
-<p align="left">
+<p align="center">
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 </a>
@@ -38,7 +38,7 @@
 
 
 <h4 align="left">Connect with me:</h4>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/李少琪-shao-chi-li-b1016a177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="李少琪-shao-chi-li-b1016a177" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jojoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jojoli" height="30" width="40" /></a>
 </p>
