@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <!-- <h4 align="center">A passionate machine learning engineer from Taiwan.</h4> -->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shao-chi&show_icons=true&locale=en" alt="shao-chi" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shao-chi&show_icons=true&locale=en" alt="shao-chi" /></p> -->
 
 <!-- <h4 align="left">Languages and Tools:</h4>
 <p align="left">
